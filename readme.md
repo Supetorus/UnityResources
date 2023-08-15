@@ -25,5 +25,8 @@ Scripts provided in this repository are free to use, modify, and distribute for 
 | https://quixel.com/megascans/home | Free 3D assets, built into Unreal but also compatible with Unity |
 | https://www.poliigon.com/ | 3D models and textures |
 | https://ambientcg.com/ | 3D models and textures |
+| https://mebiusbox.github.io/contents/EffectTextureMaker/ | Texture / Particle generator |
+| https://www.mixamo.com/#/ | Humanoid models and animations |
+
 
 Always check the licensing for assets you acquire through these or other sources. I am not responsible for how you use assets.
