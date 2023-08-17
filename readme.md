@@ -27,6 +27,7 @@ Scripts provided in this repository are free to use, modify, and distribute for 
 | https://ambientcg.com/ | 3D models and textures |
 | https://mebiusbox.github.io/contents/EffectTextureMaker/ | Texture / Particle generator |
 | https://www.mixamo.com/#/ | Humanoid models and animations |
+| https://open3dmodel.com/ | Free 3D Models |
 
 
 Always check the licensing for assets you acquire through these or other sources. I am not responsible for how you use assets.
